@@ -1,1 +1,1 @@
-# ChatGPT_for_streamlet
+# ChatGPT_for_streamlit
